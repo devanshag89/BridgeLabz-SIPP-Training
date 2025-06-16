@@ -18,7 +18,7 @@ public class SumOfNumbers {
 			else break;
 		}
 		
-		int sum = 0;
+		double sum = 0;
 		ind = 0;
 		System.out.println("The numbers are -");
 		while(ind<10 && arr[ind]!=0) {
